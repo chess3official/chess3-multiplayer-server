@@ -1,0 +1,13 @@
+{
+  "name": "chess3-multiplayer-server",
+  "version": "0.1.0",
+  "private": true,
+  "main": "multiplayer-server.js",
+  "scripts": {
+    "start": "node multiplayer-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0",
+    "chess.js": "^1.4.0"
+  }
+}
